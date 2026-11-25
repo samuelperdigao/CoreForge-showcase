@@ -1,0 +1,31 @@
+CoreForge - Licença de uso gratuito (freeware)
+Copyright (c) 2026 samuelperdigao. Todos os direitos reservados.
+
+1. Uso gratuito. Você pode baixar, instalar e usar o CoreForge sem custo, em
+   quantos computadores quiser, para uso pessoal ou profissional.
+
+2. Distribuição. O CoreForge só deve ser obtido pelas páginas oficiais
+   (as releases deste repositório e o site do projeto). Não é permitido
+   vender, alugar, sublicenciar, empacotar com outros programas ou
+   redistribuir o software, no todo ou em parte, sem autorização por escrito
+   do autor. Indicar o link oficial para outras pessoas é livre.
+
+3. Modificação. Não é permitido modificar, descompilar, desmontar ou fazer
+   engenharia reversa do software, exceto onde a lei aplicável permitir
+   expressamente.
+
+4. Código-fonte. O código-fonte do CoreForge não é público e não é concedido
+   por esta licença.
+
+5. Sem garantia. O CoreForge altera configurações do Windows e é fornecido
+   "no estado em que se encontra", sem garantia de qualquer tipo. Use os
+   recursos de histórico, desfazer e pontos de restauração antes de mudanças
+   importantes. Na máxima extensão permitida pela lei, o autor não se
+   responsabiliza por perdas ou danos decorrentes do uso do software.
+
+6. Materiais deste repositório. Textos e imagens deste repositório servem
+   para apresentação do projeto e não podem ser reutilizados fora dele sem
+   autorização do autor.
+
+Componentes de terceiros incluídos no executável seguem suas próprias
+licenças, listadas em THIRD_PARTY_LICENSES.txt dentro da pasta do programa.
