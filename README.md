@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://github.com/samuelperdigao/CoreForge-showcase/releases/latest"><b>⬇️ Baixar a última versão</b></a>
   &nbsp;|&nbsp;
-  <a href="https://coreforge-ten.vercel.app"><b>Site do CoreForge</b></a>
+  <a href="https://www.coreforge.dev.br"><b>Site do CoreForge</b></a>
 </p>
 
 <p align="center">
