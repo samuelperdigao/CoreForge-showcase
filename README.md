@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-claro.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo-escuro.svg">
-    <img src="assets/logo-escuro.svg" alt="CoreForge" width="112">
-  </picture>
+  <img src="assets/banner.jpg" alt="CoreForge" width="100%">
 </p>
 
 <h1 align="center">CoreForge</h1>
@@ -13,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/samuelperdigao/CoreForge-showcase/releases/latest"><img src="https://img.shields.io/github/v/release/samuelperdigao/CoreForge-showcase?label=vers%C3%A3o&style=for-the-badge&color=dcdfe7&labelColor=141821" alt="Última versão"></a>
-  <img src="https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-9cc8ff?style=for-the-badge&labelColor=141821" alt="Grátis">
-  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-141821?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 e 11">
-  <img src="https://img.shields.io/badge/PySide6-Qt%206-141821?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6 / Qt 6">
+  <a href="https://github.com/samuelperdigao/CoreForge-showcase/releases/latest"><img src="https://img.shields.io/github/v/release/samuelperdigao/CoreForge-showcase?label=vers%C3%A3o&style=for-the-badge&color=e5e5e5&labelColor=171717" alt="Última versão"></a>
+  <img src="https://img.shields.io/badge/pre%C3%A7o-gr%C3%A1tis-22d3ee?style=for-the-badge&labelColor=171717" alt="Grátis">
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-171717?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10 e 11">
+  <img src="https://img.shields.io/badge/PySide6-Qt%206-171717?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6 / Qt 6">
 </p>
 
 <p align="center">
@@ -26,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Painel do CoreForge com a pontuação de otimização e o botão Boost" width="92%">
+  <img src="assets/dashboard.png" alt="Painel do CoreForge" width="92%">
 </p>
 
 ---
@@ -85,10 +81,6 @@ Já tem o CoreForge? Ele avisa quando sai uma versão nova e se atualiza com um 
   <tr>
     <td width="50%"><img src="assets/hwmonitor.png" alt="Hardware Monitor"><p align="center"><b>Hardware Monitor</b>: sensores com mínimo e máximo</p></td>
     <td width="50%"><img src="assets/cleanup.png" alt="Limpeza"><p align="center"><b>Limpeza</b>: tamanho medido antes de apagar</p></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="assets/games.png" alt="Biblioteca de jogos"><p align="center"><b>Jogos</b>: biblioteca com <i>Jogar com Boost</i> e relatório de sessão</p></td>
-    <td width="50%"><img src="assets/history.png" alt="Histórico com desfazer"><p align="center"><b>Histórico</b>: cada alteração registrada, com desfazer</p></td>
   </tr>
 </table>
 
