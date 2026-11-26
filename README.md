@@ -86,6 +86,10 @@ Já tem o CoreForge? Ele avisa quando sai uma versão nova e se atualiza com um 
     <td width="50%"><img src="assets/hwmonitor.png" alt="Hardware Monitor"><p align="center"><b>Hardware Monitor</b>: sensores com mínimo e máximo</p></td>
     <td width="50%"><img src="assets/cleanup.png" alt="Limpeza"><p align="center"><b>Limpeza</b>: tamanho medido antes de apagar</p></td>
   </tr>
+  <tr>
+    <td width="50%"><img src="assets/games.png" alt="Jogos"><p align="center"><b>Jogos</b>: <i>Jogar com Boost</i> e relatório de FPS de cada sessão</p></td>
+    <td width="50%"><img src="assets/restore.png" alt="Restauração"><p align="center"><b>Restauração</b>: desfazer ajustes compatíveis e pontos de restauração</p></td>
+  </tr>
 </table>
 
 ## Decisões de projeto
